@@ -1,0 +1,14 @@
+D:\BasicConcept\BasicConcept\bin\Debug\netcoreapp3.1\BasicConcept.exe
+D:\BasicConcept\BasicConcept\bin\Debug\netcoreapp3.1\BasicConcept.deps.json
+D:\BasicConcept\BasicConcept\bin\Debug\netcoreapp3.1\BasicConcept.runtimeconfig.json
+D:\BasicConcept\BasicConcept\bin\Debug\netcoreapp3.1\BasicConcept.runtimeconfig.dev.json
+D:\BasicConcept\BasicConcept\bin\Debug\netcoreapp3.1\BasicConcept.dll
+D:\BasicConcept\BasicConcept\bin\Debug\netcoreapp3.1\BasicConcept.pdb
+D:\BasicConcept\BasicConcept\obj\Debug\netcoreapp3.1\BasicConcept.csproj.AssemblyReference.cache
+D:\BasicConcept\BasicConcept\obj\Debug\netcoreapp3.1\BasicConcept.GeneratedMSBuildEditorConfig.editorconfig
+D:\BasicConcept\BasicConcept\obj\Debug\netcoreapp3.1\BasicConcept.AssemblyInfoInputs.cache
+D:\BasicConcept\BasicConcept\obj\Debug\netcoreapp3.1\BasicConcept.AssemblyInfo.cs
+D:\BasicConcept\BasicConcept\obj\Debug\netcoreapp3.1\BasicConcept.csproj.CoreCompileInputs.cache
+D:\BasicConcept\BasicConcept\obj\Debug\netcoreapp3.1\BasicConcept.dll
+D:\BasicConcept\BasicConcept\obj\Debug\netcoreapp3.1\BasicConcept.pdb
+D:\BasicConcept\BasicConcept\obj\Debug\netcoreapp3.1\BasicConcept.genruntimeconfig.cache
